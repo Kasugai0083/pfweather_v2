@@ -1,7 +1,7 @@
 # pfweather_v2
 OpenWeatherAPI取得アプリケーション - 最新版
 <br><br>
-・概要
+・概要<br>
 Javaで制作した天気情報を取得するアプリケーションです。<br>
 ソースはOpenWeatherAPIの無料版を利用しています。<br>
 https://openweathermap.org/api
