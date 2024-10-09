@@ -1,6 +1,9 @@
 # pfweather_v2
 OpenWeatherAPI取得アプリケーション - 最新版
 <br><br>
+動作環境：JDK17以上 最新版のDLは下記のurlにアクセスしてください。<br>
+https://www.oracle.com/jp/java/technologies/downloads/#jdk23-windows
+<br><br>
 ・概要<br>
 Javaで制作した天気情報を取得するアプリケーションです。<br>
 ソースはOpenWeatherAPIの無料版を利用しています。<br>
